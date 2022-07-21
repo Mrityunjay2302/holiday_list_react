@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/holiday_list_react/static/css/main.3fa792b3.css",
+    "main.js": "/holiday_list_react/static/js/main.d31e1f6e.js",
+    "index.html": "/holiday_list_react/index.html",
+    "main.3fa792b3.css.map": "/holiday_list_react/static/css/main.3fa792b3.css.map",
+    "main.d31e1f6e.js.map": "/holiday_list_react/static/js/main.d31e1f6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fa792b3.css",
+    "static/js/main.d31e1f6e.js"
+  ]
+}
